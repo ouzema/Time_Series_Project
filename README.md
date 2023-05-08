@@ -25,16 +25,19 @@ The dataset used is the [Microsoft Stock](https://www.kaggle.com/datasets/vijayv
 * Stationarity
   * AC and PAC plots
   * ARIMA
-  * Rolling mean and std
-  * Dickey-Fuller test
+  * SARIMA
   
 * Making our time series stationary
   * Difference transform
-  * Log scale
   * Smoothing
-  * Moving average
 
 
 
 #  📚 Forcasting with MLP
+* Forecasts
+* Model Development
+* Train-Test-Split
+* MLP
+* Evaluation : RMSE
 
+#  📚 Conclusion
